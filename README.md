@@ -45,7 +45,7 @@ Start the server
 
 ### Compose Page
 
-![App Screenshot](https://i.ibb.co/wK2s2kC/image.png)
+![App Screenshot](https://i.ibb.co/55JFJ0v/image.png)
 
 ### About Page
 
