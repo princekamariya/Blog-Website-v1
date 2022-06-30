@@ -49,7 +49,7 @@ Start the server
 
 ### About Page
 
-![App Screenshot](https://i.ibb.co/s1nMcQr/image.png)
+![App Screenshot](https://i.ibb.co/09Td1Z3/image.png)
 
 
 
